@@ -8,7 +8,7 @@
 [![Prisma](https://img.shields.io/badge/Prisma-6.12-2D3748)](https://www.prisma.io/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1-38B2AC)](https://tailwindcss.com/)
 
-> **Empowering patients with true ownership of their medical data through blockchain technology**
+> **Note:** If you want access to the code repository, please contact the author directly: tpardhe@gmail.com
 
 MedLedger is a decentralised electronic health record management platform that leverages the XRP Ledger (XRPL) to give patients complete control over their medical records. Built with privacy-first principles, cryptographic security, and seamless healthcare integration.
 
@@ -479,7 +479,7 @@ const xrplConfig = {
 
 MedLedger includes comprehensive technical documentation with 7 detailed flow diagrams:
 
-> **Note**: Click [`here`](./docs/flow-diagrams.md) for detailed charts.
+> **Note**: Click [`here`](./flow-diagrams.md) for detailed charts.
 
 ### 1. **Patient Onboarding & XRPL Wallet Creation Flow**
 
